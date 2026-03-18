@@ -1,5 +1,4 @@
 # Active-Directory-VM-Lab
-
 A hands-on lab demonstrating the setup and configuration of Active Directory on a Windows Server VM
 
 ### Objective
