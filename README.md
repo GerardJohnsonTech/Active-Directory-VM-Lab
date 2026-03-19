@@ -31,16 +31,23 @@ Set up and configure Active Directory Domain Services (AD DS) on Windows Server
 
 ### Steps Performed
 
+<p>
 1. Installed Active Directory Domain Services via Server Manager
-2. Promoted the server to a Domain Controller
-3. Created a new domain: Secure.local
 <img width="1470" height="956" alt="Screenshot-VM1" src="https://github.com/user-attachments/assets/6d89bf4d-a105-497b-b6d3-bc53f6ec524a" />
 
-
+<p>
+2. Promoted the server to a Domain Controller
 <img width="1470" height="956" alt="Screenshot-VM2" src="https://github.com/user-attachments/assets/09944d49-2da6-4ddd-8419-32a3757cb2b2" />
 
-
+<p>
+3. Created a new domain: secure.local
 <img width="1470" height="956" alt="Screenshot-VM3" src="https://github.com/user-attachments/assets/fc4d73a7-54b2-4198-8be2-930746287087" />
+</p>
+<br />
 
+<p>
+
+### Outcome
+Successfully configured an Active Directory domain controller and verified that the environment was operational.
 
 
